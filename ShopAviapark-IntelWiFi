@@ -1,1 +1,19 @@
-
+connection=wifi
+dhcp=yes
+wifi_encryption=wpa
+wpa_password=,eltnctnjxrf
+ssid_name=Robinzon_CORP
+browser=firefox
+homepage=https://robinzon.ru
+hostname=ROB-KIO
+allow_icmp_protocol=yes
+session_idle=5
+disable_navigation_bar=yes
+kiosk_config=https://raw.githubusercontent.com/PCbIX/porteus/master/Shops
+onscreen_buttons=back forward home refresh 
+scheduled_action=Monday-22:15 Tuesday-22:15 Wednesday-22:15 Thursday-22:15 Friday-22:15 Saturday-22:15 Sunday-22:15 action:halt
+rtc_wake=Monday-8:30 Tuesday-8:30 Wednesday-8:30 Thursday-8:30 Friday-8:30 Saturday-8:30 Sunday-8:30
+shutdown_menu=reboot restart-session shutdown sleep 
+timezone=Europe/Moscow
+whitelist=robinzon.ru
+additional_components=uefi.zip
