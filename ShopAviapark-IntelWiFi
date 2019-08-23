@@ -1,8 +1,8 @@
 connection=wifi
 dhcp=yes
+ssid_name=Robinzon_CORP
 wifi_encryption=wpa
 wpa_password=,eltnctnjxrf
-ssid_name=Robinzon_CORP
 browser=firefox
 homepage=https://robinzon.ru
 hostname=ROB-KIO
