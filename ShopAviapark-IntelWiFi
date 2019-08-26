@@ -1,6 +1,6 @@
 connection=wifi
 dhcp=yes
-ssid_name=robinzon_avia
+ssid_name=robinzon-avia
 wifi_encryption=wpa
 wpa_password=qazMN4515
 browser=firefox
