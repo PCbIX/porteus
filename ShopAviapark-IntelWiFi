@@ -1,8 +1,8 @@
 connection=wifi
 dhcp=yes
-ssid_name=A.creature_mobile
+ssid_name=robinzon_avia
 wifi_encryption=wpa
-wpa_password=qawsedrf
+wpa_password=qazMN4515
 browser=firefox
 homepage=https://robinzon.ru
 hostname=ROB-KIO
